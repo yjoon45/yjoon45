@@ -63,4 +63,4 @@ I’m currently learning and working on:
 🚀 Excited about Web3 and actively learning Solidity and dApp development.  
 💡 Open to **collaborations, mentorship, and learning opportunities in blockchain!**  
 
-📬 **DM me on [LinkedIn](https://www.linkedin.com/in/yogesh-kumar-here/)** or check out my [GitHub Projects](https://github.com/YOUR_USERNAME).  
+📬 **DM me on [LinkedIn](https://www.linkedin.com/in/yogesh-kumar-here/)**
